@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FOLIO Tweak
-// @namespace    http://library.covenantseminary.edu/
+// @namespace    https://library.covenantseminary.edu/
 // @version      2024-03-28
 // @description  Make modifications to the FOLIO UI
 // @author       Steve Jamieson
