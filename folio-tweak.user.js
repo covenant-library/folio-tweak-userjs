@@ -8,6 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=folio.org
 // @grant        GM_addStyle
 // @run-at       document-start
+// @updateURL    https://github.com/covenant-library/folio-tweak-userjs/raw/main/folio-tweak.user.js
+// @downloadURL  https://github.com/covenant-library/folio-tweak-userjs/raw/main/folio-tweak.user.js
 // ==/UserScript==
 
 (function() {
